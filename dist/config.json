@@ -1,0 +1,13 @@
+{
+    "audio": "C:/Users/joaor/Videos/1 - Nosso Backup/Isso não é terapia/VisualizadorDeAudio/audio.m4a",
+    "imagem_fundo": "C:/Users/joaor/Videos/1 - Nosso Backup/Isso não é terapia/VisualizadorDeAudio/Fundo-Audio.jpg",
+    "pasta_saida": "C:\\Users\\joaor\\Videos\\1 - Nosso Backup\\Isso não é terapia\\VisualizadorDeAudio\\dist",
+    "nome_saida": "renderizado.mp4",
+    "cor_visualizador": "614c00",
+    "largura_onda": "1309",
+    "altura_onda": "378",
+    "margem_esquerda": "0",
+    "margem_direita": "611",
+    "posicao_x_onda": "0",
+    "posicao_y_onda": "351"
+}

@@ -93,3 +93,10 @@
 *.OPUS
 *.WAV
 *.WMA
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller spec files
+*.spec
